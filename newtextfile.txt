@@ -1,0 +1,11 @@
+Country|OC|15|20|0.75
+C|SA
+|4|5.0|0.8
+D|NA
+|5|6.0|0.83
+F|AF
+|7|8.0|0.88
+G|AI
+|100|23.0|4.35
+Z|No continent data for this country. 
+|2|4.0|0.5

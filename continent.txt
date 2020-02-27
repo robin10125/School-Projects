@@ -1,0 +1,10 @@
+teasd
+A,NA
+B,SA
+C,SA
+D,NA
+E,EU
+F,AF
+G,AI
+H,OC
+I,EU
